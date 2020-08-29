@@ -16,7 +16,7 @@ a {
 }
 /*-----Header & Banner Starts-------*/
 .navbar-brand {
-	font-family: 'Oleo Script Swash Caps', cursive;
+	font-family: 'Gill Sans';
 	color: #ffffff;
 	font-size: 26px;
 }
@@ -135,6 +135,10 @@ a {
 }
 .portfolio-item {
 	margin-bottom: 30px;
+}
+
+.portfolio-item p {
+	text-align: left;
 }
 .img-portfolio {
 	margin: 0 auto;
