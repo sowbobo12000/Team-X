@@ -77,7 +77,7 @@ The API is last tested in November 2020. This is tested in Postman.
 
  
 # License
-+ This is an IP project. Our clients want the code to be private only to them and they do not need any license.
++ This is an IP project. All rights reserved.
   
 
 # Acknowledgements
